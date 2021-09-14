@@ -1,2 +1,3 @@
-# TempConverter
-Script simple para convertir de grados Celsius a Fahrenheit y viceversa.
+# Repositorio de prácticas
+
+Buenas, este repositorio es para subir algunos scripts que hice para practicar JAVA.
