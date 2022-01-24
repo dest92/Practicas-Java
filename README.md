@@ -1,3 +1,3 @@
-# Repositorio de prácticas
+#Java Practices
 
-Buenas, este repositorio es para subir algunos scripts que hice para practicar JAVA.
+Hi, this is a little repository of my Java practices that i do for the University
