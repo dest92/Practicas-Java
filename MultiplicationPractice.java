@@ -1,4 +1,4 @@
-// Este simple script permite practicar las tablas de multiplicar con el número que elijas. 
+// This simple script allows you to practice the multiplication tables with the number you choose. 
 
 import java.util.Scanner;
 
